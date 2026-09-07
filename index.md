@@ -9,5 +9,6 @@ Portfolio showcasing my environmental data science projects.
 #### Contact Information
 * clairewadler@gmail.com
 * [GitHub profile](https://github.com/clairewadler)
+* [ORCID Account]([https://github.com/clairewadler](https://orcid.org/0009-0006-9958-7316))
 
 #### Educational History
