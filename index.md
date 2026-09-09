@@ -4,7 +4,8 @@ Portfolio showcasing my environmental data science projects.
 <img 
   src="/img/Website_photo_water_quality.jpg"
   alt="Water Quality Measurements"
-  width="50%">
+  width="75%"
+  style="border: 1px solid #CCCCCC; padding: 15px; background-color: #FFFFFF; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
 
 #### Contact Information
 * clairewadler@gmail.com
@@ -16,7 +17,7 @@ Portfolio showcasing my environmental data science projects.
 I currently work for the Colorado Department of Public Health and Environment in the Water Quality Control Division as a PFAS Program Specialist. When I first moved to Colorado in 2023, I worked as a Research Assistant at the WE2ST Hub in Colorado School of Mines, where I did chemical characterization work on recycled water. Before moving to Colorado, I attended Georgia State University and researched transit time distributions in urban beaver ponds. I have also lived in Oklahoma, where I worked for the EPA's Groundwater Characterization and Remediation Division, and Austin, where I attended the University of Texas. My interest in studying water quality began as a child growing up in Houston, TX, where in the aftermath of floods and hurricanes, we would sometimes go weeks without clean tap water. I continue to seek opportunities that will help me grow as a water quality professional and contribute to creating sustainable outcomes within our watersheds.
 
 #### Professional Background
-* 05/2025 - Present &emsp; PFAS Program Specialist, CDPHE
+* 05/2025 - Present &emsp;&nbsp; PFAS Program Specialist, CDPHE
 * 06/2023 - 06/2025 &emsp; Research Assistant, Colorado School of Mines
 * 12/2022 - 05/2023 &emsp; GIS Intern, City of Sandy Springs
 
