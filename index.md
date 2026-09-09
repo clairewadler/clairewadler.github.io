@@ -5,7 +5,7 @@ Portfolio showcasing my environmental data science projects.
   src="/img/Website_photo_water_quality.jpg"
   alt="Water Quality Measurements"
   width="75%"
-  style="border: 1px solid #CCCCCC; padding: 15px; background-color: #FFFFFF; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
+  style="border: 1px solid #1B305B; padding: 15px; background-color: #3891d6; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
 
 #### Contact Information
 * clairewadler@gmail.com
