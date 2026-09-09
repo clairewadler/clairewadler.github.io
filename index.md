@@ -5,7 +5,7 @@ Portfolio showcasing my environmental data science projects.
   src="/img/Website_photo_water_quality.jpg"
   alt="Water Quality Measurements"
   width="75%"
-  style="border: 1px solid #1B305B; padding: 15px; background-color: #3891d6; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
+  style="border: 1px solid #CCCCCC; padding: 15px; background-color: #12254D; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);">
 
 #### Contact Information
 * clairewadler@gmail.com
@@ -26,6 +26,8 @@ I currently work for the Colorado Department of Public Health and Environment in
 * BSA Chemistry, University of Texas, Austin, TX, 2017
 
 ### Class Projects
-Interactive Map of Schlitterbahn Waterpark in New Braunfels, 9/2026
+I will be posting my projects and assignments for the Earth Data Analytics Certificate program here. I am excited to learn how to apply programming languages to analyze environmental data, particularly hydrologic data, and explore how to automate my workflows.
+
+Interactive Map of Schlitterbahn Waterpark in New Braunfels, created 9/2026
 
 <embed type="text/html" src="img/Schlitterbahn.html" width="600" height="600">
