@@ -28,6 +28,6 @@ I currently work for the Colorado Department of Public Health and Environment in
 ### Class Projects
 I will be posting my projects and assignments for the Earth Data Analytics Certificate program here. I am excited to learn how to apply programming languages to analyze environmental data, particularly hydrologic data, and explore how to automate my workflows.
 
-Interactive Map of Schlitterbahn Waterpark in New Braunfels, created 9/2026
+*Interactive Map of Schlitterbahn Waterpark in New Braunfels, created 9/2026*
 
 <embed type="text/html" src="img/Schlitterbahn.html" width="600" height="600">
