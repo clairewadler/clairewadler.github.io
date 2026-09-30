@@ -25,8 +25,15 @@ I currently work for the Colorado Department of Public Health and Environment in
 * MS Geosciences, Georgia State University, Atlanta, GA, 2023
 * BSA Chemistry, University of Texas, Austin, TX, 2017
 
-### Class Projects
+### Projects
 I will be posting my projects and assignments for the Earth Data Analytics Certificate program here. I am excited to learn how to apply programming languages to analyze environmental data, particularly hydrologic data, and explore how to automate my workflows.
+
+*Temperature Data Show Temperatures have Increased Over a 30 Year Period in Brookhaven, NY, created 9/2026*
+![Brookhaven Climate Plot](img/brookhaven_temp_trend.jpeg)
+
+Long Island has been identified as a region particularly prone to climate change impacts. Brookhaven is a town located in central Long Island, and has warmed an average of 0.01&deg;C per year from 1996 to 2025. This is a slightly [slower rate][1] than has been predicted. To see more details on this project, [you can find the full analysis here.](portfolio_posts/portfolio_export_2)
+
+[1]: https://nysclimateimpacts.org/explore-by-region/the-long-island-region/#section-8
 
 *Interactive Map of Schlitterbahn Waterpark in New Braunfels, created 9/2026*
 
