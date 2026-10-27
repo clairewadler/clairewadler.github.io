@@ -42,11 +42,11 @@ I will be posting my projects and assignments for the Earth Data Analytics Certi
 
 <p>Occurrence data was downloaded from the Global Biodiversity Information Facility (GBIF) and spatially joined to the RESOLVE Ecoregions 2017 dataset using Python. Occurrence data was normalized by space (ecoregion) and time (month) to account for sampling bias. Instances where only one occurrence was documented in an ecoregion were not included in the interactive plot to help account for misidentified species.</p>
 
-The full data analysis can be found here.
+[The full data analysis can be found here.](portfolio_posts/Monarch_migration_portfolio)
 
 Data Sources
 
-Dinerstein, E., Olson, D. M., Joshi, A., Vynne, C., Burgess, N. D., Wikramanayake, E. D. 2017. "RESOLCE Ecoregions 2017". *RESOLVE* <https://ecoregions.world/>
+Dinerstein, E., Olson, D. M., Joshi, A., Vynne, C., Burgess, N. D., Wikramanayake, E. D. 2017. "RESOLCE Ecoregions 2017". RESOLVE <https://ecoregions.world/>
 
 GBIF.org (24 October 2026) GBIF Occurrence Download <https://doi.org/10.15468/dl.fp52e5>
 
