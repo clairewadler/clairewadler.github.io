@@ -28,6 +28,28 @@ I currently work for the Colorado Department of Public Health and Environment in
 ### Projects
 I will be posting my projects and assignments for the Earth Data Analytics Certificate program here. I am excited to learn how to apply programming languages to analyze environmental data, particularly hydrologic data, and explore how to automate my workflows.
 
+*Monarch Butterfly (Danaus plexippus) Annual Migration Pattern, created 10/2026*
+<p>Click the photo to explore an interactive map displaying the monarch migration during 2020</p>
+<a href = "img/monarch_migration_plot.html" target = "blank">
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/2/28/Monarch_butterfly_%28Danaus_plexippus%29_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+  width = "600"
+  alt = "Photo of a Monarch Butterfly. Source J. Corey Butler, 2005, Wikimedia Commons">
+  <p> </p>
+  <figcaption>Photo of a Monarch Butterfly. Source J. Corey Butler, 2005, Wikimedia Commons</figcaption>
+</a>
+
+<p>Monarchs are an iconic butterfly species known for their bright orange wings. Every year, the North American monarch makes it's multigenerational, round trip migration across the continent to their overwintering sites and back. And the monarch isn't just known in North America anymore, over the past 200 years they have also spread to other parts of the world, often forming non-migratory populations. Wherever there is milkweed, the monarch's host plant, a monarch can potentially be found. But land use change and other human practices are destroying milkweed plants, causing a decline in monarch populations. Studying migration patterns and monarch observations can help highlight how monarch populations are being effected and what can be done to help bring their populations back.</p>
+
+<p>Occurrence data was downloaded from the Global Biodiversity Information Facility (GBIF) and spatially joined to the RESOLVE Ecoregions 2017 dataset using Python. Occurrence data was normalized by space (ecoregion) and time (month) to account for sampling bias. Instances where only one occurrence was documented in an ecoregion were not included in the interactive plot to help account for misidentified species.</p>
+
+The full data analysis can be found here.
+
+Data Sources
+
+Dinerstein, E., Olson, D. M., Joshi, A., Vynne, C., Burgess, N. D., Wikramanayake, E. D. 2017. "RESOLCE Ecoregions 2017". *RESOLVE* <https://ecoregions.world/>
+
+GBIF.org (24 October 2026) GBIF Occurrence Download <https://doi.org/10.15468/dl.fp52e5>
+
 *Temperature Data Show Temperatures have Increased Over a 30 Year Period in Brookhaven, NY, created 9/2026*
 ![Brookhaven Climate Plot](img/brookhaven_temp_trend.jpeg)
 
